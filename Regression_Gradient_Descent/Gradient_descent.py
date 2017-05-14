@@ -3,7 +3,7 @@
 """
 @author - Radhakrishna Jella
 
-This is a program Regression and Gradient descent computation.
+This program is for Regression and Gradient descent computation.
 
 Regression model
    create hypothesis - create an equation for output variable
