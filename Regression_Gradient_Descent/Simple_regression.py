@@ -6,6 +6,9 @@ Simple linear regression with one feature is explained here.
 By chnaging input file, adding new features it can be extended 
 for multiple variables. 
 
+Using pandas for file reading, so that feature set can be easily extended.
+For Linear regression using SKLEARN. 
+
 """
 
 import numpy as np
